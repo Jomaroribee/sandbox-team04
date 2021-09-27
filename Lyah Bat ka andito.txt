@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-testing dito ooooo
-=======
 develop branch
->>>>>>> develop
